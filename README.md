@@ -1,3 +1,5 @@
+# Ответы на вопросы в файле "ответы на вопросы.pdf"
+
 # Practical_RL
 
 An open course on reinforcement learning in the wild.
